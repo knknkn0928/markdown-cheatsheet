@@ -1,8 +1,7 @@
-Markdown Cheatsheet<a name="TOP"></a>
+*Markdown Cheatsheet - 김나현*
 ===================
 
-- - - - 
-# Heading 1 #
+# 제목 1 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +9,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제목 2 ##
 
     Markup :  ## Heading 2 ##
 
@@ -18,11 +17,11 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제목 3 ###
 
     Markup :  ### Heading 3 ###
 
-#### Heading 4 ####
+#### 제목 4 ####
 
     Markup :  #### Heading 4 ####
 
